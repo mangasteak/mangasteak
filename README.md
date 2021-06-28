@@ -42,5 +42,4 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mangasteak&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&hide=issues
-" alt="mangasteak" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mangasteak&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&hide=issues" alt="mangasteak" />
