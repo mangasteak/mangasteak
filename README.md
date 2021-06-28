@@ -6,7 +6,6 @@ Hi, I'm [Léo maman], a 2nd years Epitech student at Toulouse.
 
   <img align="right" alt="GIF" src="https://github.com/mangasteak/mangasteak/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Any freelance work? Do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
@@ -16,7 +15,8 @@ Hi, I'm [Léo maman], a 2nd years Epitech student at Toulouse.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/css.png"></code>
+
 
 
 📈 My GitHub Stats
