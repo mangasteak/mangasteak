@@ -4,12 +4,9 @@
 
 <br />
 
-Hi, I'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Léo maman], a 2nd years Epitech student at Toulouse.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/mangasteak/mangasteak/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? Do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 Ask me about anything, I am happy to help;
