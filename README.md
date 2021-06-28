@@ -2,11 +2,9 @@
 <a href="https://www.linkedin.com/in/leo-maman-7293a8197/">
   <img align="left" alt="Léo maman's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
-<br />
-
 Hi, I'm [Léo maman], a 2nd years Epitech student at Toulouse.
 
-  <img align="right" alt="GIF" src="https://github.com/mangasteak/mangasteak/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/mangasteak/mangasteak/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? Do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 Ask me about anything, I am happy to help;
