@@ -4,7 +4,7 @@
 
 Hi, I'm [Léo maman], a 2nd years Epitech student at Toulouse.
 
-  <img align="right" alt="GIF" src="https://github.com/mangasteak/mangasteak/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/mangasteak/mangasteak/code.gif" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 
