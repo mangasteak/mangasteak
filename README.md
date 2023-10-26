@@ -39,3 +39,7 @@ if Interested here is a small presentation of myself
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mangasteak&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&hide=issues" alt="mangasteak" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mangasteak&theme=omni" />
+</a>
